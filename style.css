@@ -1,0 +1,49 @@
+.uncial-antiqua-regular {
+  font-family: "Uncial Antiqua", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body{
+    font-family: "Uncial Antiqua", system-ui;
+    background-color: #e2e2e2;
+    color:#3d3d3d ;
+    text-align: center;
+}
+
+img{
+    border: 5px double rgb(92, 95, 97); 
+    width: auto;
+    height: auto;
+    text-align: center;
+}
+img:hover{
+    box-shadow: 0 0 20px#151515;
+}
+
+header{
+    padding:5px;
+    margin: 0%;
+}
+.lists{
+    background-color:#6b6b6b ;
+    border: 3px #a0a0a0 solid ;
+    border-radius: 10px;
+    height: 180px;
+    width: 500px;
+    text-align: left;
+    display: inline-block;
+    vertical-align: middle;
+    padding: 2px 2px;
+    margin: 2px 2px;
+    color: #e2e2e2;
+}
+h3{
+    text-align: center;
+}
+
+.lists:hover{
+    transform: 2px;
+    border-width: 5px;
+    box-shadow: 0 0 10px rgb(145, 144, 144);
+}
